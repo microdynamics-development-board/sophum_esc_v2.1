@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : sophum_esc_v3.brd                             )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Tue May 05 21:58:00 2020                      )
+(    Date/Time        : Thu May 07 12:44:52 2020                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,16 +22,16 @@ Design Directory:            '.'
 Old design name:             'C:/Users/abcd/Documents/GitHub/sophum_esc_v3/PCB/sophum_esc_v3.brd'
 New design name:             'C:/Users/abcd/Documents/GitHub/sophum_esc_v3/PCB/sophum_esc_v3.brd'
 
-CmdLine: netrev -$ -i C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST -y 1 -z -q netrev_constraint_report.xml C:/Users/abcd/Documents/GitHub/sophum_esc_v3/PCB/#Taaaabz22524.tmp
+CmdLine: netrev -$ -i C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST -y 1 -z -q netrev_constraint_report.xml C:/Users/abcd/Documents/GitHub/sophum_esc_v3/PCB/#Taaaaaf25988.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST/pstchip.dat 
-   Finished reading C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST/pstchip.dat (00:00:00.27)
+   Finished reading C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST/pstchip.dat (00:00:00.16)
 Starting to read C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST/pstxprt.dat 
    Finished reading C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST/pstxprt.dat (00:00:00.00)
 Starting to read C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST/pstxnet.dat 
-   Finished reading C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST/pstxnet.dat (00:00:00.09)
+   Finished reading C:/Users/abcd/Documents/GitHub/sophum_esc_v3/SCH/NETLIST/pstxnet.dat (00:00:00.02)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -65,7 +65,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on May 5 21:58:00 2020
+netrev run on May 7 12:44:52 2020
    DESIGN NAME : 'SOPHUM_ESC_V3'
    PACKAGING ON Feb 15 2016 19:53:59
 
@@ -90,6 +90,6 @@ netrev run on May 5 21:58:00 2020
  No oversight detected
  No warning detected
 
-cpu time      0:07:18
-elapsed time  0:00:03
+cpu time      0:05:04
+elapsed time  0:00:02
 
